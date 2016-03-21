@@ -19,6 +19,6 @@ Package.onUse(function(api) {
 Package.onTest(function(api) {
   api.use('ecmascript');
   api.use('tinytest');
-  api.use('kadeka:test-package');
+  api.use('test-package');
   api.addFiles('test-package-tests.js');
 });
