@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'kadeka:test-package',
+  name: 'test-package',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: '',
